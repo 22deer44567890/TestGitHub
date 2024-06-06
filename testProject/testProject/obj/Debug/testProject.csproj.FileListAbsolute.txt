@@ -1,0 +1,11 @@
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\bin\Debug\testProject.exe.config
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\bin\Debug\testProject.exe
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\bin\Debug\testProject.pdb
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.csproj.AssemblyReference.cache
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.Form1.resources
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.Properties.Resources.resources
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.csproj.GenerateResource.cache
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.csproj.CoreCompileInputs.cache
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.exe
+C:\Users\usr\Downloads\TestGitHub-main\TestGitHub-main\testProject\testProject\obj\Debug\testProject.pdb
